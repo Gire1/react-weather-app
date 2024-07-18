@@ -5,12 +5,3 @@ import App from "./App";
 
 
 
-ReactDom.render(<App />,document.getElementById('root'));
-
-
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
-
